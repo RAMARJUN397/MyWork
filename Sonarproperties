@@ -1,0 +1,10 @@
+sonar.host.url=http://65.0.119.238:9000/
+sonar.projectName=mydemo
+sonar.projectKey=MySonar
+sonar.sourceEncoding=UTF-8
+sonar.language=java
+sonar.java.source=1.7
+sonar.java.target=1.7
+sonar.projectVersion=4.0
+sonar.sources=/var/jenkins_home/workspace/BankingApplication
+sonar.java.binaries=.
